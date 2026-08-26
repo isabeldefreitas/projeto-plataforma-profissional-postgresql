@@ -296,13 +296,4 @@ Algumas possíveis evoluções para o projeto incluem:
 * desenvolvimento de uma API para acesso aos dados;
 * criação de uma interface para a plataforma;
 
----
-
-## 👩‍💻 Autora
-
-**Isabel de Freitas**
-
-Projeto desenvolvido para aplicação prática de conceitos de **modelagem e implementação de bancos de dados relacionais utilizando PostgreSQL**.
-
-````
 
