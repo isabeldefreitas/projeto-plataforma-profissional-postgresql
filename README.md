@@ -265,28 +265,6 @@ Também foram considerados índices em colunas utilizadas como chaves estrangeir
 * `ON DELETE SET NULL`
 * Índices
 * Otimização de Consultas
-
----
-
-
-# 🚀 Como visualizar o projeto
-
-### 1. Clone o repositório
-
-```bash
-git clone LINK_DO_SEU_REPOSITORIO
-```
-
-### 2. Crie um banco de dados PostgreSQL
-
-```sql
-CREATE DATABASE plataforma_profissional;
-```
-
-### 3. Execute o script SQL
-
-Execute o arquivo responsável pela criação das tabelas, relacionamentos, constraints e índices no banco criado.
-
 ---
 
 # 💡 Possíveis evoluções
